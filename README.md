@@ -1,4 +1,4 @@
-🎓 College Management System
+🎓 College Management System. 
 
 A web-based College Management System designed to simplify and organize common college management activities through a centralized platform.
 
